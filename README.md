@@ -92,7 +92,9 @@ src/main/java/com/example/shoppingmall/
 ├── product/      # 상품 관리
 ├── cart/         # 장바구니
 ├── order/        # 주문 및 주문 상품
+├── payment/      # 포트원을 이용한 결제 연동
 └── global/       # 공통 설정 및 보안
+
 ```
 
 ### Frontend
